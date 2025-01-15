@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🛰️ I’m currently working on open source web gis development and e2e gis/ml workflow management
+- 🛰️ I’m currently working on open source contributions and developing gis apps, web apps, 3D rendering,e2e gis/ml workflow management, and more.
 - 🌊 I’m currently learning nautical/underwater mapping and analysis
 - 🤿 I’m looking to collaborate on coastal resilience & management and open source GIS & Emergency Services
 - 💬 Ask me for consultation on geospatial products and building full stack applications
