@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🖳🆓🌐🤖 I’m currently working on open source contributions and developing gis apps, web apps, mobile apps, state-of-the-art rendering, e2e gis/ml workflow management, and more.
-- 🌊🛥️🏖️🗺️ I’m currently learning stormwater mitigation & watershed management, and underwater/shoreline mapping & analysis.
+- 🌊🛥️🏖️🗺️ I’m currently learning more stormwater mitigation & watershed management, and underwater/shoreline mapping & analysis.
 - 🪖🛟🧯🪸 Dedicated to creating open source software for emergency services, climate preparedness, coastal resilience, and emerging open source technologies.
 - 💬 Ask me for consultation on full stack applications or geospatial data platforms.
 - 📫 How to reach me: jphardee@gmail.com PLEASE MAKE SUBJECT MY GITHUB USERNAME
