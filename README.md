@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🖳🆓🌐🤖 I’m currently working on open source contributions and building portable (geo)spatial components using client-side & server-side languages, web frameworks, geospatial services and data processing pipelines 
-- ⚕️🪖🧯🪸 Dedicated to creating or contributing to open source software for medical & emergency services, climate preparedness, coastal resilience, and open source (geo)spatial projects.
+- ⚕️🪖⛑️🪸 Dedicated to creating or contributing to open source software for medical & emergency services, climate preparedness, coastal resilience, and open source (geo)spatial projects.
 
 Support >>>>
     - [Seabed 2030](https://seabed2030.org/)
