@@ -6,7 +6,6 @@
 Support >>>>
     - [Seabed 2030](https://seabed2030.org/)
     - [NOAA Digital Coast](https://coast.noaa.gov/digitalcoast/)
-    - [OpenISES](https://openises.sourceforge.net/)
     - [OpenVis](https://www.openvisualization.org/)
     - [OpenJS](https://openjsf.org/)
 
