@@ -7,7 +7,9 @@ Support >>>>
 
 - [Kitware's Investment in Open Platforms ](https://www.kitware.com/open-philosophy/) 
 - [Seabed 2030](https://seabed2030.org/)
-    - In 2017, The Nippon Foundation and General Bathymetry Chart of the Ocean (GEBCO) came together to look at how ocean mapping might support the UN’s Sustainable Development Goal 14: ‘to conserve and sustainably use the ocean, seas and marine resources for sustainable development.’ The Nippon Foundation and General Bathymetry Chart of the Ocean (GEBCO) have committed to building the necessary technical, scientific, and management framework to compile all available seabed mapping information into a seamless digital map of the world’s ocean floor by 2030.
+    - The Nippon Foundation and General Bathymetry Chart of the Ocean (GEBCO) Came Together to Look at How Ocean Mapping Can Support the UN’s Sustainable Development Goal 14: 
+```‘to conserve and sustainably use the ocean, seas and marine resources for sustainable development.’```
+    -  The Two Organizations Have Committed to Building the Necessary Technical, Scientific, and Management Framework to Compile All Available Seabed Mapping Information into a Digital Map of the World’s Ocean Floor by 2030.
 - [NOAA Digital Coast](https://coast.noaa.gov/digitalcoast/)
     - Promotes a Customer-centric Approach to Optimize Data Collection, Sharing, and Integration and to Minimize Duplication, and Provides Data Sets, Tools, and Training that Communities Need to Address Coastal Issues
 - [Open ISES Project](https://openises.sourceforge.net/)
