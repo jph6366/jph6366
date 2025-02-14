@@ -7,7 +7,7 @@ Support >>>>
 
 - [Kitware's Open Source Platforms](https://www.kitware.com/open-philosophy/)
     - Kitware Has Invested Time and Resources Into Improving Open Source Platforms to Ensure Long-Term Sustainability and Success for 20+ years.
-    - I Plan to Learn Kitware's Philosophies and Translate it to Fostering Rapid Innovation of Open Source Platforms,
+    - I'm Learning Kitware's Philosophies and Translate it to Fostering Rapid Innovation of Open Source Platforms,
 - [Seabed 2030](https://seabed2030.org/)
     - The Nippon Foundation and General Bathymetry Chart of the Ocean (GEBCO) Came Together to Look at How Ocean Mapping Can Support the UN’s Sustainable Development Goal 14: 
 
