@@ -13,7 +13,7 @@ Support >>>>
 
 ```‘to conserve and sustainably use the ocean, seas and marine resources for sustainable development.’```
 
-    -  The Two Organizations Have Committed to Building the Necessary Technical, Scientific, and Management Framework to Compile All Available Seabed Mapping Information into a Digital Map of the World’s Ocean Floor by 2030.
+-  The Two Organizations Have Committed to Building the Necessary Technical, Scientific, and Management Framework to Compile All Available Seabed Mapping Information into a Digital Map of the World’s Ocean Floor by 2030.
 - [NOAA Digital Coast](https://coast.noaa.gov/digitalcoast/)
     - Promotes a Customer-centric Approach to Optimize Data Collection, Sharing, and Integration and to Minimize Duplication, and Provides Data Sets, Tools, and Training that Communities Need to Address Coastal Issues.
 - [Open ISES Project](https://openises.sourceforge.net/)
