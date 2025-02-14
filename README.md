@@ -5,13 +5,16 @@
 
 Support >>>>
 
-- [Kitware's Investment in Open Platforms ](https://www.kitware.com/open-philosophy/) 
+- [Kitware's Open Source Platforms](https://www.kitware.com/open-philosophy/)
+    - Kitware Has Invested Time and Resources Into Improving Open Source Platforms to Ensure Long-Term Sustainability and Success for 20+ years.
+    - I Plan to Learn Kitware's Philosophies and Translate it to Fostering Rapid Innovation of Open Source Platforms,
 - [Seabed 2030](https://seabed2030.org/)
     - The Nippon Foundation and General Bathymetry Chart of the Ocean (GEBCO) Came Together to Look at How Ocean Mapping Can Support the UN’s Sustainable Development Goal 14: 
+
 ```‘to conserve and sustainably use the ocean, seas and marine resources for sustainable development.’```
     -  The Two Organizations Have Committed to Building the Necessary Technical, Scientific, and Management Framework to Compile All Available Seabed Mapping Information into a Digital Map of the World’s Ocean Floor by 2030.
 - [NOAA Digital Coast](https://coast.noaa.gov/digitalcoast/)
-    - Promotes a Customer-centric Approach to Optimize Data Collection, Sharing, and Integration and to Minimize Duplication, and Provides Data Sets, Tools, and Training that Communities Need to Address Coastal Issues
+    - Promotes a Customer-centric Approach to Optimize Data Collection, Sharing, and Integration and to Minimize Duplication, and Provides Data Sets, Tools, and Training that Communities Need to Address Coastal Issues.
 - [Open ISES Project](https://openises.sourceforge.net/)
     - Open Source Software, Tools and Instructional Materials For the Emergency Services Community, Amateur Radio, Civilian Emergency Response Teams, and Others Who Serve Our Communities in Times of Need.
 - [OpenVis](https://www.openvisualization.org/)
