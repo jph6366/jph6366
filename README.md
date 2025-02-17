@@ -20,6 +20,7 @@ Support >>>>
     - Open Source Software, Tools and Instructional Materials For the Emergency Services Community, Amateur Radio, Civilian Emergency Response Teams, and Others Who Serve Our Communities in Times of Need.
 - [OpenVis](https://www.openvisualization.org/)
 - [OpenJS](https://openjsf.org/)
+- [OGC](https://www.ogc.org/publications/)
 
 - 💬 Ask me for consultation on full stack applications or geospatial data platforms.
 - 📫 How to reach me: jphardee@gmail.com PLEASE MAKE SUBJECT MY GITHUB USERNAME
