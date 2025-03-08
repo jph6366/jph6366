@@ -18,9 +18,7 @@ Support >>>>
     - Promotes a Customer-centric Approach to Optimize Data Collection, Sharing, and Integration and to Minimize Duplication, and Provides Data Sets, Tools, and Training that Communities Need to Address Coastal Issues.
 - [Open ISES Project](https://openises.sourceforge.net/)
     - Open Source Software, Tools and Instructional Materials For the Emergency Services Community, Amateur Radio, Civilian Emergency Response Teams, and Others Who Serve Our Communities in Times of Need.
-- [OpenVis](https://www.openvisualization.org/)
-- [OpenJS](https://openjsf.org/)
-- [OGC](https://www.ogc.org/publications/)
+
 
 - 💬 Ask me for consultation on full stack applications or geospatial data platforms.
 - 📫 How to reach me: jphardee@gmail.com PLEASE MAKE SUBJECT MY GITHUB USERNAME
