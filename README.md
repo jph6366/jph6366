@@ -3,7 +3,7 @@
 - ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and building portable (geo)spatial components using client-side & server-side languages, web frameworks, containers, and infrastructure
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, climate preparedness, coastal resilience, and open source (geo)spatial projects.
 
-Support >>>>
+## Missions, Approaches, and Research & Development Platforms
 
 - [Kitware's Open Source Platforms](https://www.kitware.com/open-philosophy/)
     - Kitware Has Invested Time and Resources Into Improving Open Source Platforms to Ensure Long-Term Sustainability and Success for 20+ years.
