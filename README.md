@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and building portable (geo)spatial components using client-side & server-side languages, web frameworks, containers, and infrastructure
-- ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, climate preparedness, coastal resilience, and open source (geo)spatial projects.
+- ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source (geo)spatial projects.
 
 ## Missions, Approaches, and Research & Development Platforms
 
