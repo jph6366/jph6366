@@ -1,6 +1,6 @@
 ## Hi there 👋
 [GitLab](https://gitlab.com/jph6366)
-- ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and cross-compiling geo & spatial components for the web supporting configurations with client-side & server-side languages, web frameworks, containers, and infrastructure
+- ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and cross-compiling geo & spatial & temporal components for the web supporting configurations with client-side & server-side languages, web frameworks, and executing and auto-scaling in containers, and automating deployment by defining and provisioning infrastructure through code.
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source (geo)spatial projects.
 
 ## Missions, Approaches, and Research & Development Platforms
