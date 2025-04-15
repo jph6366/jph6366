@@ -1,6 +1,6 @@
 ## Hi there 👋
 [GitLab](https://gitlab.com/jph6366)
-- ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and cross-compiling **geo & spatial & IoT components**...
+- ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and cross-compiling **geo & spatial data components**...
     - for on-premise solutions and on the web
     - supporting configurations with client-side & server-side languages, web frameworks
     - executing and auto-scaling in OCI containers
