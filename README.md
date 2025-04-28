@@ -1,6 +1,6 @@
 ## Hi there 👋
 [GitLab](https://gitlab.com/jph6366)
-- ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and developing _realtime & offline_ **geo & spatial data components**...
+- ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and developing _realtime & offline_ **geographic & spatial data components**...
     - for _on-premise, local-first native_ solutions and _privacy-first, portable web_ solutions that conform to modern web, graphics, and geospatial standards
     - supporting configurations with popular client-side & server-side languages and **WebAssembly runtimes**.
     - executing and auto-scaling in **OCI containers** and porting through **WebAssembly modules**.
