@@ -4,7 +4,7 @@
     -  web_ solutions that conform to modern web, graphics, and geospatial standards
     - supporting configurations with popular client-side & server-side languages.
     - executing and auto-scaling in **OCI containers** and porting through **WebAssembly modules**.
-    - automating deployment for data **assets**, **analysis**, **sensors**, and **resources** for e2e applications for public-facing/client-facing products.
+    - automating deployment for data **assets**, **analysis**, **sensors**, and **resources** for e2e applications for public benefit.
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source (geo)spatial projects.
 
 ## Missions, Approaches, and Research & Development Platforms
