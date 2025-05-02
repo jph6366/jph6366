@@ -2,7 +2,7 @@
 [GitLab](https://gitlab.com/jph6366)
 - ⚙️🐧📂🗨️🆓 I’m currently working on open source contributions and developing _standard & realtime & offline_ **geographic & spatial data components**...
     -  web_ solutions that conform to modern web, graphics, and geospatial standards
-    - supporting configurations with popular client-side & server-side languages.
+    - supporting configurations with popular client-side & server-side languages and frameworks.
     - executing and auto-scaling in **OCI containers** and porting through **WebAssembly modules**.
     - automating deployment for data **assets**, **analysis**, **sensors**, and **resources** for e2e applications for public benefit.
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source (geo)spatial projects.
