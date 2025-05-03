@@ -6,6 +6,7 @@
     - executing and auto-scaling in **OCI containers** and porting through **WebAssembly modules**.
     - automating deployment for data **assets**, **analysis**, **sensors**, and **resources** for e2e applications for public benefit.
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source (geo)spatial projects.
+    - Supporting National Spatial Data Infrastructure (NSDI) through the [Geospatial Data Act of 2018 (GDA)](https://www.fws.gov/law/geospatial-data-act-2018)
 
 ## Missions, Approaches, and Research & Development Platforms
 
