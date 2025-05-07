@@ -11,13 +11,20 @@ _yes_
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source geoinformatic and spatial projects.
     - Supporting National Spatial Data Infrastructure (NSDI) through the [Geospatial Data Act of 2018 (GDA)](https://www.fws.gov/law/geospatial-data-act-2018), advocating for [accessibly formatted data and data systems](https://voltrondata.com/codex/a-new-frontier) and improve the overall quantity and quality of reusable data; collaborating interests across stakeholder communities.
 
-## Missions, Approaches, and Research & Development Platforms
-
 - [Kitware's Open Source Platforms](https://www.kitware.com/open-philosophy/)
     - Kitware Has Invested Time and Resources Into Improving Open Source Platforms to Ensure Long-Term Sustainability and Success for 20+ years.
     - I'm Learning Kitware's Philosophies and Translating it to Fostering Rapid Innovation of Existing and Emerging Open Source Platforms
 - 💬 Ask me for consultation on composable geospatial data platforms and 2D/3D web mapping ecosystem apps.
 - 📫 How to reach me: jphardee@gmail.com PLEASE MAKE SUBJECT MY GITHUB USERNAME
+
+✨ _Mission Goals_ ✨
+
+- teach my pug dog JavaScript using [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
+- invent computers for the beach or invent beach for the computers?
+- to infinity and beyond
+
+
+
 <!--
 **jph6366/jph6366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
