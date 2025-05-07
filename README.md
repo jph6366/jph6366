@@ -19,7 +19,7 @@ _yes_
 
 ✨ _Mission Goals_ ✨
 
-- teach my pug dog JavaScript using [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
+- teach my pug dog HTML using [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
 - invent computers for the beach or invent beach for the computers?
 - to infinity and beyond
 
