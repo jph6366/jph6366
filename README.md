@@ -1,7 +1,5 @@
 % cat
-
 Hello, world.
-
 ^D
 
 
