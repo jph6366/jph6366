@@ -1,6 +1,4 @@
-% cat
-Hello, world.
-^D
+write('Hello World').
 
 
 [GitLab](https://gitlab.com/jph6366)
