@@ -1,6 +1,6 @@
 ## Hi there 👋
 [GitLab](https://gitlab.com/jph6366)
-- ⚙️🐧📂🗨️🆓 
+- 💻🐧🗨️🆓 
 [composable](https://voltrondata.com/codex/a-new-frontier)
 [cupid](https://dannorth.net/cupid-for-joyful-coding/)
 [worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html)
