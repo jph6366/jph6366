@@ -1,4 +1,8 @@
-write('Hello World').
+**| ? - write('Hello World').**
+
+_Hello World_
+
+_yes_
 
 
 [GitLab](https://gitlab.com/jph6366)
