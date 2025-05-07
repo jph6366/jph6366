@@ -8,7 +8,7 @@ _yes_
 [composable](https://voltrondata.com/codex/a-new-frontier)
 [cupid](https://dannorth.net/cupid-for-joyful-coding/)
 [worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html)
-- ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source (geo)spatial projects.
+- ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source geoinformatic and spatial projects.
     - Supporting National Spatial Data Infrastructure (NSDI) through the [Geospatial Data Act of 2018 (GDA)](https://www.fws.gov/law/geospatial-data-act-2018), advocating for [accessibly formatted data and data systems](https://voltrondata.com/codex/a-new-frontier) and improve the overall quantity and quality of reusable data; collaborating interests across stakeholder communities.
 
 ## Missions, Approaches, and Research & Development Platforms
