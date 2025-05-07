@@ -1,6 +1,4 @@
-**| ? - write('Hello World').**
-
-_Hello World_
+**| ? - [how_many_prolog_programmers_to unscrew_a_lightbulb]**
 
 _yes_
 
