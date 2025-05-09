@@ -12,7 +12,7 @@ _yes_
 
 ✨ _Mission Goals_ ✨
 
-- teach my pug dog HTML using [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
+- is my pug dog interoperable with [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
 
 
 <!--
