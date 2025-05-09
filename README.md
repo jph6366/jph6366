@@ -16,8 +16,6 @@ _yes_
 - could my dog (in-theory) achieve turing completeness with HTML and SVGs?
 - are there code editors for dogs? can my pug use the tab button?
 - he needs more than tab? vim motions for pugs?
-- whats happens when his code fails? 
-- does he debug it or do i?
 
 
 
