@@ -13,8 +13,11 @@ _yes_
 ✨ _Mission Goals_ ✨
 
 - teach my pug dog HTML using [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
-- invent computers for the beach or invent beach for the computers?
-- to infinity and beyond
+- could my dog (in-theory) achieve turing completeness with HTML and SVGs?
+- are there code editors for dogs? can my pug use the tab button?
+- he needs more than tab? vim motions for pugs?
+- whats happens when his code fails? 
+- does he debug it or do i?
 
 
 
