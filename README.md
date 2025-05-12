@@ -12,7 +12,7 @@ _yes_
 
 ✨ _Mission Goals_ ✨
 
-- is my pug dog interoperable with [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
+- make my pug dog interoperable with [pug syntax](https://github.com/pugjs/pug/tree/master/packages/pug)
 
 <!--
 **jph6366/jph6366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
