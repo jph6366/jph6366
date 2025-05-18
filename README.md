@@ -1,7 +1,3 @@
-**?- how_many_prolog_programmers_to_unscrew_a_lightbulb.**
-
-_yes_
-
 
 [GitLab](https://gitlab.com/jph6366)
 - 💻🐧🗨️🆓 
