@@ -3,8 +3,7 @@
 - 💻🐧🗨️🆓 
 [cupid](https://dannorth.net/cupid-for-joyful-coding/) requires
 [composable](https://voltrondata.com/codex/a-new-frontier) data systems with
-[worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html)
-implementations.
+[worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html) software implementations.
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source geoinformatic and spatial software
 
 
