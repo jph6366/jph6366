@@ -6,7 +6,7 @@
     [worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html) software thats [sucks less](https://suckless.org/philosophy/).
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source geoinformatic and spatial software
 
- 
+ <img width=384 src=https://deno.com/images/homepage/peek-behind.svg?__frsh_c=c51f90fc5d665451eae557e01fff36c771cd3d9e >
 <!--
 **jph6366/jph6366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
