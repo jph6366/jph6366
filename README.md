@@ -1,13 +1,16 @@
-![peek-behind](https://github.com/user-attachments/assets/9d503b36-9375-44ff-88f9-8d68413fc946)
 [GitLab](https://gitlab.com/jph6366)
 - 💻🐧🗨️🆓 
 [cupid](https://dannorth.net/cupid-for-joyful-coding/) requires
 [composable](https://voltrondata.com/codex/a-new-frontier) data systems with
     [worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html) software thats [sucks less](https://suckless.org/philosophy/).
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source geoinformatic and spatial software
-![Uploading peek-be<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<img src=https://github.com/user-attachments/assets/9d503b36-9375-44ff-88f9-8d68413fc946 width=100>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="384px" height="384px" viewBox="0 0 420 1029" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<svg width="100%" height="100%" viewBox="0 0 420 1029" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g transform="matrix(1,0,0,1,-4063.49,-1311.07)">
         <path d="M4241.1,1833.46L4241.1,2325.21C4241.1,2325.21 4310.89,2337.69 4332.55,2316.56C4354.21,2295.43 4336.18,2279.77 4363.76,2277.35C4391.34,2274.93 4397.37,2275.65 4397.32,2249.91C4397.27,2224.16 4366.32,2112.53 4375.67,2100C4385.03,2087.47 4482.68,1937.72 4472.28,1741.12C4461.89,1544.51 4377.42,1388.5 4300.12,1346.12C4222.83,1303.74 4181.2,1327.05 4165.86,1342.93C4150.51,1358.81 4077.93,1368.14 4078.13,1416.54C4078.32,1464.94 4079.31,1495.13 4148.35,1517.22C4217.39,1539.31 4250.76,1502.02 4265.08,1529.19C4279.4,1556.36 4305.06,1574.54 4317.83,1646.37C4330.6,1718.2 4292.32,1829.63 4241.1,1833.46Z" style="fill:white;"/>
     </g>
@@ -24,7 +27,6 @@
         <path d="M4375.67,2100C4360.88,2170.88 4403.48,2227.93 4396.36,2259.68C4391.77,2280.21 4351.5,2287.39 4342.33,2280.01" style="fill:none;stroke:black;stroke-width:20.83px;stroke-linecap:round;"/>
     </g>
 </svg>
-hind.svg…]()
 
 
 <!--
