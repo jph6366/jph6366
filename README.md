@@ -1,4 +1,4 @@
-[GitLab](https://gitlab.com/jph6366)  [LinkedIn](https://www.linkedin.com/in/jackson-hardee/)
+[GitLab](https://gitlab.com/jph6366) ,  [LinkedIn](https://www.linkedin.com/in/jackson-hardee/) , (Hugging Face)[https://huggingface.co/Jphardee]
 - 💻🐧🗨️🆓 
 [cupid](https://dannorth.net/cupid-for-joyful-coding/) requires
 [composable](https://voltrondata.com/codex/a-new-frontier) data systems with
