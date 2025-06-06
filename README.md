@@ -7,10 +7,10 @@
 
 
 <a href=https://deno.com/ > <img src=https://github.com/user-attachments/assets/9d503b36-9375-44ff-88f9-8d68413fc946 width=66> <a/>
-<a href=https://dagster.io/ > <img src=https://github.com/user-attachments/assets/66c9ea03-c037-46a7-be62-d55bb81a4d84 width=66> <a/>
+<a href=https://dagster.io/ > <img src=https://github.com/user-attachments/assets/66c9ea03-c037-46a7-be62-d55bb81a4d84 width=102> <a/>
 <img src="https://motherduck.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fapp-devs-ducks.51eb4ea9.png&w=1920&q=75" width="198">
 <a href=https://discourse.doomemacs.org/t/cacodemons/2490 > <img src="https://github.com/user-attachments/assets/e1004b39-5c18-40a0-b391-f63c2ce7d7c5" width="102">  <a/>
-<a href=https://postgis.net/ > <img src="https://github.com/user-attachments/assets/6562f604-fda7-4796-b282-81cf0794a042" width="66">  <a/>
+<a href=https://postgis.net/ > <img src="https://github.com/user-attachments/assets/6562f604-fda7-4796-b282-81cf0794a042" width="138">  <a/>
 
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 319 250" width="319" height="250">
 	<defs>
