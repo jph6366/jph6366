@@ -1,8 +1,8 @@
 [GitLab](https://gitlab.com/jph6366) ,  [LinkedIn](https://www.linkedin.com/in/jackson-hardee/) , [Hugging_Face](https://huggingface.co/Jphardee)
 - 💻🐧🗨️🆓 
 [confident](https://dannorth.net/best-simple-system-for-now/) [cupid](https://dannorth.net/cupid-for-joyful-coding/) requires
-[composable](https://voltrondata.com/codex/a-new-frontier) data systems with
-    [worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html) software thats [sucks less](https://suckless.org/philosophy/).
+[composable](https://voltrondata.com/codex/a-new-frontier) data systems that use a
+    [worse-is-better](https://web.stanford.edu/class/archive/cs/cs240/cs240.1236/old//sp2014/readings/worse-is-better.html) philosophy when it comes to building programs that [suck less](https://suckless.org/philosophy/).
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source geoinformatic and spatial software
 
 
