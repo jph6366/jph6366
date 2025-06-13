@@ -10,7 +10,7 @@
 <a href=https://discourse.doomemacs.org/t/cacodemons/2490 > <img src="https://github.com/user-attachments/assets/e1004b39-5c18-40a0-b391-f63c2ce7d7c5" width="102">  <a/>
 <a href=https://postgis.net/ > <img src="https://github.com/user-attachments/assets/6562f604-fda7-4796-b282-81cf0794a042" width="138">  <a/>
 
-bLog & philosophy
+philosophies
 💻🐧🗨️🆓
 
 [confident](https://dannorth.net/best-simple-system-for-now/) [cupid](https://dannorth.net/cupid-for-joyful-coding/)
