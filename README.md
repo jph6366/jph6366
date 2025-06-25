@@ -1,4 +1,4 @@
-[GitLab](https://gitlab.com/jph6366) ,  [LinkedIn](https://www.linkedin.com/in/jackson-hardee/) , [Hugging_Face](https://huggingface.co/Jphardee)
+[GitLab](https://gitlab.com/jph6366) ,  [LinkedIn](https://www.linkedin.com/in/jackson-hardee/) , [Hugging_Face](https://huggingface.co/Jphardee), [Codeberg](https://codeberg.org/jph6366)
 
 
 - ⚕️🪖🛟🪸🩻🛰️ Dedicated to creating or contributing to open source software for medical & emergency services, disaster preparedness, coastal resilience, and open source geoinformatic and spatial software
