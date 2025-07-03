@@ -1,7 +1,7 @@
 [GitLab](https://gitlab.com/jph6366) ,  [LinkedIn](https://www.linkedin.com/in/jackson-hardee/) , [Hugging_Face](https://huggingface.co/Jphardee), [Codeberg](https://codeberg.org/jph6366)
 
 
-- ⚕️🪖🛟🪸🩻🛰️🌎 Contributing to open source geospatial software, and open source software for medical & emergency services, disaster preparedness, & coastal resilience.
+- ⚕️🪖🛟🪸🩻🛰️🌎 Contributing to open source geospatial software, and open source software for medical image analysis & visualization, emergency services community, disaster preparedness, & coastal resilience.
 
 
 <a href=https://deno.com/ > <img src=https://github.com/user-attachments/assets/9d503b36-9375-44ff-88f9-8d68413fc946 width=66> <a/>
