@@ -2,7 +2,7 @@
 
 
 - ⚕️🪖🛟🪸🩻🛰️🌎 Contributing to open source geospatial software
-- Seeking out use cases for rescue & emergency services community, disaster preparedness, coastal resilience, and smart cities.
+- Seeking out use cases for rescue & emergency services community, disaster preparedness, coastal resilience, defense, and smart cities.
 
 [My Digital Filing Cabinet & HyperText ZettelKasten](https://jph6366.github.io/filing-cabinet/)
 
