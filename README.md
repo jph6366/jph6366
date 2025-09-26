@@ -3,6 +3,4 @@
 
 - ⚕️🪖🛟🪸🩻🛰️🌎 Contributing to open source geo & spatial software
 [My Digital Filing Cabinet & HyperText ZettelKasten](https://jph6366.github.io/filing-cabinet/)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jph6366&theme=default)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jph6366&theme=tokyonight)
