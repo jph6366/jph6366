@@ -2,4 +2,5 @@
 
 
 - ⚕️🪖🛟🪸🩻🛰️🌎 Contributing to open source geo & spatial software
+
 [My Digital Filing Cabinet & HyperText ZettelKasten](https://jph6366.github.io/filing-cabinet/)
