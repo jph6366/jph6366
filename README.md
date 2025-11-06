@@ -5,4 +5,4 @@
 
 [My Digital Filing Cabinet & HyperText ZettelKasten](https://jph6366.github.io/filing-cabinet/)
 
-pinned repos highlighting on-going contributions
+pinned repos highlighting on-going contributions or recent projects
