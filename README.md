@@ -14,3 +14,4 @@ available demos:
   _Data Sources_
     -  Global Multi-Resolution Topography (GMRT) provides seamless access to high-quality elevation data and its wide use demonstrates the enduring value of sustained investment in shared ocean data systems.
     -  BlueTopo is curated bathymetric source data that provide a definitive nationwide model of the seafloor and navigational lakes
+    -  The Nippon Foundation-GEBCO Seabed 2030 Project (Seabed 2030) is a pioneering initiative accelerating ocean mapping efforts. GEBCO's gridded bathymetric data sets are global terrain models for ocean and land. 
