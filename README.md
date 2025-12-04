@@ -9,7 +9,7 @@
 
 available demos:
 
-- [Playground for components visualizing and mapping United State's best available bathymetric data and multibeam sonar data collected by scientists across the world’s oceans](https://67d84670b91c3a0fa31f09e3-ddbeapkbul.chromatic.com/?path=/story/tide-pool-bathy-data--web-map) (React.js, Cesium.js, MapboxGL/MapLibreGL)
+- [Tide-pool](https://67d84670b91c3a0fa31f09e3-ddbeapkbul.chromatic.com/?path=/story/tide-pool-bathy-data--web-map) (React.js, Cesium.js, MapboxGL/MapLibreGL) => components visualizing and mapping United State's best available bathymetric data and multibeam sonar data collected by scientists across the world’s oceans
  
   _Data Sources_
     -  Global Multi-Resolution Topography (GMRT) provides seamless access to high-quality elevation data and its wide use demonstrates the enduring value of sustained investment in shared ocean data systems.
